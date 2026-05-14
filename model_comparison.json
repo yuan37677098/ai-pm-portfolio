@@ -1,0 +1,107 @@
+[
+  {
+    "model": "DeepSeek-Chat",
+    "id": 1,
+    "question": "如何修改飞书登录密码？",
+    "type": "正常",
+    "answer": "根据参考文档，关于如何修改飞书登录密码的内容未提供具体步骤，因此我无法回答这个问题。建议你查阅飞书官方帮助中心或联系客服获取详细指导。",
+    "latency_s": 2.03,
+    "tokens_in": 108,
+    "tokens_out": 38,
+    "cost_yuan": 0.0002
+  },
+  {
+    "model": "DeepSeek-Chat",
+    "id": 6,
+    "question": "多维表格能导出Excel吗？",
+    "type": "正常",
+    "answer": "根据文档，多维表格可以导出为 Excel（.xls 或 .xlsx 格式）或 CSV（.csv 格式）。",
+    "latency_s": 0.93,
+    "tokens_in": 247,
+    "tokens_out": 29,
+    "cost_yuan": 0.0003
+  },
+  {
+    "model": "DeepSeek-Chat",
+    "id": 7,
+    "question": "个人版和企业版有什么区别？",
+    "type": "边界",
+    "answer": "根据参考文档，飞书个人版与企业版的主要区别如下：\n\n- **适用人数**：个人版不限人数，企业版未明确说明，但通常针对组织需求。\n- **消息记录**：个人版仅支持近90天可搜索，企业版未提及限制。\n- **视频会议**：个人版最多100人，单次最长60分钟；企业版未具体说明，但旗舰版可支持最多1000人会议。\n- **云存储**：个人版每人50GB，企业版未提及。\n- **其他功能**：个人版提",
+    "latency_s": 3.21,
+    "tokens_in": 183,
+    "tokens_out": 159,
+    "cost_yuan": 0.0005
+  },
+  {
+    "model": "DeepSeek-Chat",
+    "id": 10,
+    "question": "怎么在飞书里点外卖？",
+    "type": "盲区",
+    "answer": "抱歉，根据我查阅的文档，目前没有关于在飞书里点外卖的功能介绍。文档主要涉及飞书多维表格、外部联系人导入、聊天记录管理和联系客服等内容。如果您有其他关于飞书使用的问题，我可以尝试根据已有文档为您解答。",
+    "latency_s": 1.7,
+    "tokens_in": 99,
+    "tokens_out": 55,
+    "cost_yuan": 0.0002
+  },
+  {
+    "model": "DeepSeek-Chat",
+    "id": 14,
+    "question": " ",
+    "type": "空",
+    "answer": "您好，根据参考文档，修改飞书登录密码的方法如下：\n\n1.  打开飞书应用。\n2.  进入个人设置页面。\n3.  找到“账号与安全”或类似选项。\n4.  选择“修改密码”，按照提示输入旧密码并设置新密码即可。\n\n如果您在操作中遇到其他问题，建议查看飞书官方帮助中心获取更详细的指引。",
+    "latency_s": 2.26,
+    "tokens_in": 63,
+    "tokens_out": 82,
+    "cost_yuan": 0.0002
+  },
+  {
+    "model": "GLM-4-Flash",
+    "id": 1,
+    "question": "如何修改飞书登录密码？",
+    "type": "正常",
+    "answer": "请按照以下步骤修改飞书登录密码：\n\n1. 登录飞书官网或飞书客户端。\n2. 进入“我的设置”。\n3. 点击“账户与安全”。\n4. 选择“修改密码”。\n5. 输入当前密码，然后输入新密码并确认。\n6. 点击“保存”完成修改。",
+    "latency_s": 6.12,
+    "tokens_in": 113,
+    "tokens_out": 74,
+    "cost_yuan": 0.0
+  },
+  {
+    "model": "GLM-4-Flash",
+    "id": 6,
+    "question": "多维表格能导出Excel吗？",
+    "type": "正常",
+    "answer": "可以。可以将多维表格导出为Excel（.xls 或 .xlsx 格式）或CSV（.csv 格式），然后再将导出的文档导入为电子表格。",
+    "latency_s": 2.35,
+    "tokens_in": 248,
+    "tokens_out": 38,
+    "cost_yuan": 0.0
+  },
+  {
+    "model": "GLM-4-Flash",
+    "id": 7,
+    "question": "个人版和企业版有什么区别？",
+    "type": "边界",
+    "answer": "个人版和企业版的主要区别在于功能和适用规模。个人版是免费的，适用人数不限，提供基础的消息记录、视频会议、云存储、日历和文档协作功能。企业版则提供更多高级服务，如最多1000人会议、专属客户成功经理等，适用于不同规模的组织。",
+    "latency_s": 3.23,
+    "tokens_in": 187,
+    "tokens_out": 66,
+    "cost_yuan": 0.0
+  },
+  {
+    "model": "GLM-4-Flash",
+    "id": 10,
+    "question": "怎么在飞书里点外卖？",
+    "type": "盲区",
+    "answer": "不知道。文档中没有提及飞书点外卖的相关功能。",
+    "latency_s": 0.67,
+    "tokens_in": 104,
+    "tokens_out": 14,
+    "cost_yuan": 0.0
+  },
+  {
+    "model": "GLM-4-Flash",
+    "id": 14,
+    "question": " ",
+    "error": "Error code: 400 - {'error': {'code': '1213', 'message': '未正常接收到prompt参数。'}}"
+  }
+]

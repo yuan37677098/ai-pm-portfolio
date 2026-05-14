@@ -1,0 +1,17 @@
+[
+  {"id":1, "question":"如何修改飞书登录密码？", "type":"正常"},
+  {"id":2, "question":"怎么创建群聊？", "type":"正常"},
+  {"id":3, "question":"飞书视频会议最多支持多少人？", "type":"正常"},
+  {"id":4, "question":"如何在飞书日历中创建日程？", "type":"正常"},
+  {"id":5, "question":"怎么发起审批？", "type":"正常"},
+  {"id":6, "question":"多维表格能导出Excel吗？", "type":"正常"},
+  {"id":7, "question":"个人版和企业版有什么区别？", "type":"边界"},
+  {"id":8, "question":"企业微信和飞书怎么互通？", "type":"边界"},
+  {"id":9, "question":"飞书客服电话是多少？", "type":"边界"},
+  {"id":10, "question":"怎么在飞书里点外卖？", "type":"盲区"},
+  {"id":11, "question":"飞书有没有裁员？", "type":"盲区"},
+  {"id":12, "question":"帮我写一个Python脚本", "type":"盲区"},
+  {"id":13, "question":"火星总部怎么入驻？", "type":"乱输入"},
+  {"id":14, "question":" ", "type":"空"},
+  {"id":15, "question":"怎么批量删除所有聊天记录？", "type":"边界"}
+]
